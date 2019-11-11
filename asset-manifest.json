@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/where-to-eat/static/css/main.4262a9d2.chunk.css",
+    "main.js": "/where-to-eat/static/js/main.fa7424c1.chunk.js",
+    "main.js.map": "/where-to-eat/static/js/main.fa7424c1.chunk.js.map",
+    "runtime-main.js": "/where-to-eat/static/js/runtime-main.7105e28b.js",
+    "runtime-main.js.map": "/where-to-eat/static/js/runtime-main.7105e28b.js.map",
+    "static/js/2.f913d141.chunk.js": "/where-to-eat/static/js/2.f913d141.chunk.js",
+    "static/js/2.f913d141.chunk.js.map": "/where-to-eat/static/js/2.f913d141.chunk.js.map",
+    "index.html": "/where-to-eat/index.html",
+    "precache-manifest.967e72e552cefd769f03f4072eeda357.js": "/where-to-eat/precache-manifest.967e72e552cefd769f03f4072eeda357.js",
+    "service-worker.js": "/where-to-eat/service-worker.js",
+    "static/css/main.4262a9d2.chunk.css.map": "/where-to-eat/static/css/main.4262a9d2.chunk.css.map",
+    "static/media/SearchBar.css": "/where-to-eat/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7105e28b.js",
+    "static/js/2.f913d141.chunk.js",
+    "static/css/main.4262a9d2.chunk.css",
+    "static/js/main.fa7424c1.chunk.js"
+  ]
+}
