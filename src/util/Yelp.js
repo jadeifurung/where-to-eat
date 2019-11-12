@@ -25,10 +25,7 @@ const Yelp = {
                             id: business.id,
                             imageSrc: business.image_url,
                             name: business.name,
-                            address: business.location.display_address,
-                            city: business.location.city,
-                            state: business.location.state,
-                            zipCode: business.location.zip_code,
+                            address: business.location.display_address.join(' '),
                             category: categoryArr.join(', '),
                             rating: business.rating,
                             reviewCount: business.review_count
