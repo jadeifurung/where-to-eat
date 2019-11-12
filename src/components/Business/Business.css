@@ -1,7 +1,6 @@
 .Business {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     width: 16.66rem;
     margin: 0 .5rem 2.3rem .5rem;
   }
@@ -19,6 +18,7 @@
   
   .Business-information {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
   }
   
@@ -29,21 +29,15 @@
   }
   
   .Business-address {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  
-  .Business-reviews {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    text-align: right;
+    margin-bottom: .3rem;
+    text-align: justify;
+    min-height: 2rem;
   }
   
   .Business-reviews h3 {
-    color: #CCA353;
+    color: #ff0000;
     font-weight: 600;
+    font-size: .88rem;
   }
   
   .Business-reviews .rating {
