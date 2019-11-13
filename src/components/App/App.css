@@ -38,7 +38,8 @@ h1 {
   padding: .66rem 0;
   text-align: center;
   background-color: #ff0000;
-  font-family: Poppins, sans-serif;
+  /* font-family: Poppins, sans-serif; */
+  font-family: 'Baloo', cursive;
   font-size: 1.8rem;
   color: #ffffff;
 }
